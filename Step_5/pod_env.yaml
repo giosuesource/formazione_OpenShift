@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: database-server
+spec:
+  containers:
+    - image: mysql:5.6
+      name: con
+      env:
+        - name: MYSQL_ROOT_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: passwd-secret
+              key: password

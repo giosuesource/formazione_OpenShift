@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-per-config
+spec:
+  containers:
+    - name: mioserver
+      image: httpd
+      env:
+        - name: PARAMETRO_PROVA_ENV
+          valueFrom:
+            configMapKeyRef:
+              name: example-config
+              key: PARAMETRO_PROVA
