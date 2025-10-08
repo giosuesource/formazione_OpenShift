@@ -1,5 +1,4 @@
-
-# Step. 4
+## Step. 4
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di installare Prometheus Stack tramite helm chart ufficiale e provare il BlackBox Exporter per il monitoring di endpoint http
