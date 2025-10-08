@@ -1,5 +1,5 @@
 
-# Step. 3
+## Step. 3
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di creare Quotas, applicarle e verificarne l'effettivo funzionamento al superamento delle soglie indicate
