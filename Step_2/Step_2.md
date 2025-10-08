@@ -1,5 +1,5 @@
 
-# Step. 2
+## Step. 2
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di creare una ROOT CA self-signed e locale, creare un CSR e rilasciare i certificati richiesti dal CSR tramite ROOT CA creata.
