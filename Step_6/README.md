@@ -1,5 +1,5 @@
 
-# Step. 6
+## Step. 6
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di scrivere due applicazioni in Python che effettuino le seguenti operazioni:
