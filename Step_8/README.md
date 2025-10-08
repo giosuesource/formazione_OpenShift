@@ -1,5 +1,5 @@
 
-# Step. 8
+## Step. 8
 ### Descrizione esercizio:
 
 Crea sul tuo cluster Kubernetes tre tipi di applicazioni:
