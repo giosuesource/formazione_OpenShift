@@ -1,5 +1,5 @@
 
-# Step. 1
+## Step. 1
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di creare un deployment che installi Nginx o un'applicazione con footprint minimale
