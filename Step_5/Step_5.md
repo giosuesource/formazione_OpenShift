@@ -1,5 +1,4 @@
-
-# Step. 5
+## Step. 5
 ### Descrizione esercizio:
 
 Lo scopo di questo esercizio è quello di creare ogni tipo di Secret e provare a leggere i vari secret creati (che siano ConfigMap o Key-Value) tramite un pod
