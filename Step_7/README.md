@@ -1,5 +1,5 @@
 
-# Step. 7
+## Step. 7
 ### Descrizione esercizio:
 
 Crea un nuovo deployment per un'applicazione web in ambiente di sviluppo, posizionata nella regione europea.
